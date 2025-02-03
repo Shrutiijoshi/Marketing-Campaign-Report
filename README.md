@@ -53,4 +53,4 @@ This project analyzes the performance of various email campaigns by tracking rec
 
 ## Dashboard Review :
 <img src="Report Img/Overview1.png" alt="report1" width="1000" height="600">&nbsp;
-<img src="Report Img/Performance.png" alt="report1" width="1000" height="600">&nbsp;
+<img src="Report Img/Performance1.png" alt="report1" width="1000" height="600">&nbsp;
