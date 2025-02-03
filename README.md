@@ -52,5 +52,5 @@ This project analyzes the performance of various email campaigns by tracking rec
 - Newsletters have the lowest conversion rate (1.05%), emphasizing their informational rather than action-driven nature.
 
 ## Dashboard Review :
-<img src="Report Img/Overview.png" alt="report1" width="1000" height="600">&nbsp;
+<img src="Report Img/Overview1.png" alt="report1" width="1000" height="600">&nbsp;
 <img src="Report Img/Performance.png" alt="report1" width="1000" height="600">&nbsp;
